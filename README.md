@@ -10,8 +10,9 @@
 -  COMPÉTENCES :
 -  Localiser et diagnostiquer la panne ou l'anomalie.
 -  Appliquer une procédure de tests aux différents stades de l’intervention
--  Conseiller et assister techniquement l'utilisateur en intégrant lesdonnées liées à son environnement professionnel.
--  Renseigner les documents de suivi. M'adapter à des technologies et des matériels nouveaux.
+-  Conseiller et assister techniquement l'utilisateur en intégrant les données liées à son environnement professionnel.
+-  Renseigner les documents de suivi.
+-  M'adapter à des technologies et des matériels nouveaux.
 -  Manipuler avec précision des petites pièces et microéléments.
 -  Html 5
 -  CSS 3
