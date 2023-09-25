@@ -13,7 +13,10 @@
 -  Conseiller et assister techniquement l'utilisateur en intégrant lesdonnées liées à son environnement professionnel.
 -  Renseigner les documents de suivi. M'adapter à des technologies et des matériels nouveaux.
 -  Manipuler avec précision des petites pièces et microéléments.
--   
+-  Html 5
+-  CSS 3
+-  Windows serveur
+-  Novell Netware 
 
 
 
